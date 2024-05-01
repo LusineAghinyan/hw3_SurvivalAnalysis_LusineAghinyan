@@ -5,7 +5,7 @@ This project focuses on applying survival analysis to a telecommunications datas
 assess factors influencing customer churn. Utilizing parametric Accelerated Failure Time (AFT) models, the analysis aims to uncover valuable
 insights into customer retention and inform strategic decision-making.
 
-
+ 
 Homework Context
 Objective: To build, compare, and visualize survival models using the dataset provided, identify significant predictors of churn, and calculate the CLV of customers.
 Goals:
